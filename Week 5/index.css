@@ -1,0 +1,30 @@
+/* Universal selector */
+* {
+  box-sizing: border-box;
+}
+
+/* Element selector */
+h1 {
+  color: #172554;
+}
+
+h2 {
+  color: #172554;
+}
+
+/* Class selector */
+.card {
+  background-color: white;
+  padding: 16px;
+  margin-bottom: 16px;
+  border-radius: 12px;
+}
+
+/* ID selector */
+#hero {
+  background-color: #315bea;
+  color: white;
+  text-align: center;
+  padding: 32px 16px;
+  border-radius: 12px;
+}
